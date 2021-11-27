@@ -1,6 +1,7 @@
 # Oasis Themes
 
 This will be a short explanation on Oasis Themes
+Oasis uses `.toml` for its Themes
 
 There are three types of Themes
 
