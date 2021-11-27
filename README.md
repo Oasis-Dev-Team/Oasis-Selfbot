@@ -55,5 +55,5 @@ Background = ""
 
 ---
 
-Now replace the examples with the colors you want and put it in your themes folder.
+Now replace the colors in the example with the colors you want and put it in your themes folder.
 Fill in the name of the file in the config and restart the Selfbot.
