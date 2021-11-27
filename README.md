@@ -60,4 +60,4 @@ How to implement the new custom theme:
 
 - Create a `.toml` (for example `MySuperCoolTheme.toml`) file in your Themes folder and copy an example from this tutorial.
 - Replace the color codes with your own.
--Enter the theme file's name in your `config.toml` file and don't forget to restart the Selfbot.
+- Enter the theme file's name in your `config.toml` file and don't forget to restart the Selfbot.
