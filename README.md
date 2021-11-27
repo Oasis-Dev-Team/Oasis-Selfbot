@@ -22,8 +22,8 @@ You can specify Colors in 2 ways
 ```toml
 Type = "Single"
 [Colors]
-Color = "#FFFFFF"
-Background = "#5F5F5F"
+Color = ""
+Background = ""
 ```
 
 ---
@@ -33,12 +33,12 @@ Background = "#5F5F5F"
 ```toml
 Type = "Multi"
 [Colors]
-First = "rgb(245, 245, 187)"
-Second = "rgb(245, 187, 187)"
-Third = "#474747"
-Fourth = "rgb(245, 245, 245)"
-Fifth = "rgb(245, 245, 187)"
-Background = "#5F5F5F"
+First = ""
+Second = ""
+Third = ""
+Fourth = ""
+Fifth = ""
+Background = ""
 ```
 
 ---
@@ -48,9 +48,9 @@ Background = "#5F5F5F"
 ```toml
 Type = "Gradient"
 [Colors]
-First = "#505050"
-Last = "#202020"
-Background = "#FFFFFF"
+First = ""
+Last = ""
+Background = ""
 ```
 
 ---
