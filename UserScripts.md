@@ -33,3 +33,23 @@ Requirements
 4. Now build the lib with `dotnet build -c release`
 5. Put the output dll into the `Data` folder and use the `creload` command
 6. Done! You should be able to use these commands just like normal commands.
+
+
+Now your code should look something like this
+```
+using System;
+
+namespace Oasis
+{
+    public class Commands
+    {
+        public async Task Example(dynamic ctx)
+        {
+            // See more https://dsharpplus.github.io/api/DSharpPlus.CommandsNext.CommandContext.html
+            await ctx.RespondAsync("This is response")
+            await ctx.ModifyAsync("This will edit the message")
+        }
+    }
+}
+
+``` 
