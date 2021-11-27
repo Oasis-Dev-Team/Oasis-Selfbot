@@ -1,7 +1,5 @@
 # Oasis Themes
 
----
-
 This will be a short explanation on Oasis Themes
 
 There are three types of Themes
