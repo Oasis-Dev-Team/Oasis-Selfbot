@@ -35,8 +35,8 @@ Requirements
 6. Done! You should be able to use these commands just like normal commands.
 
 
-Now your code should look something like this
-```
+Your code should look something like this
+```cs
 using System;
 
 namespace Oasis
