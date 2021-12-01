@@ -24,6 +24,10 @@ Requirements
 
       await ctx.RespondAsync("This is response")
       await ctx.ModifyAsync("This will edit the message")
+
+      // If you want to log something in the terminal
+      ctx.Client.Log("Message", "INFO");
+      // The second parameter is optional
    }
    ```
 
